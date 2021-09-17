@@ -2,7 +2,7 @@
 
 ## Integrantes do grupo 
 
- * Beatriz Regina de Figueiredo - fulano@abc.com
+ * Beatriz Regina de Figueiredo - biarfigueiredo.br@gmail.com
  * Laura Gabrielle de Lira Silva - lauragabrielle46@gmail.com
 
 ## Descrição geral do projeto 
