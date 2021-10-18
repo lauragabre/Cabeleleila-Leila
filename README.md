@@ -18,5 +18,3 @@ A principal funcionalidade do sistema é manter organizado o agendamento de clie
 * **REQ5** - O sistema deve permitir que clientes façam pagamentos dos serviços.
 * **REQ6** - O sistema mostrará um historico de pagamentos para o cliente e funcionários.
 * **REQ7** - O sistema mostrará um relatório de todos os agendamentos e pagamentos feitos no ano.
-
-testando****
