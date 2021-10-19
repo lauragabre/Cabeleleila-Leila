@@ -24,6 +24,6 @@ A principal funcionalidade do sistema é manter organizado o agendamento de clie
 
 ![Alt text](DiagramaDeClasses.png)
 
-* Link de vídeo:
+* Link de vídeo: https://youtu.be/g81n-woVHts
 
 
