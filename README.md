@@ -7,7 +7,7 @@
 
 ## Descrição geral do projeto 
 
-A principal funcionalidade do sistema é manter organizado o agendamento de clientes em um salão de beleza. O sistema será utilizado pelos funcionários do salão. Nele será possível fazer cadastro do cliente, cadastro do serviços, agendamento do cliente e visualizar relatório de todos os agendamentos.   
+A principal funcionalidade do sistema é manter organizado o agendamento de clientes em um salão de beleza. O sistema será utilizado pelos funcionários do salão. Nele será possível fazer cadastro do cliente, cadastro do serviços, agendamento do cliente, pagamento, visualização de pagamento e visualizar relatório de todos os agendamentos e pagamentos.   
 
 ## Requisitos do projeto
 
